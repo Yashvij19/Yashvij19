@@ -50,7 +50,7 @@ const developer = {
 
 <div align="center">
   <a href="https://github.com/Yashvij19/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvij19&repo=project1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvij19&repo=hotel-website&theme=tokyonight" />
   </a>
   <a href="https://github.com/Yashvij19/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvij19&repo=project2&theme=tokyonight" />
