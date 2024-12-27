@@ -49,7 +49,7 @@ const developer = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Yashvij19/project1">
+  <a href="https://github.com/Yashvij19/hotel-website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashvij19&repo=hotel-website&theme=tokyonight" />
   </a>
   <a href="https://github.com/Yashvij19/project2">
