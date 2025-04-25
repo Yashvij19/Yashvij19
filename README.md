@@ -33,7 +33,7 @@
 ```javascript
 const developer = {
   frontend: ["HTML", "CSS", "JavaScript"],
-  backend: ["Node.js", "Express","React " , "Java"],
+  backend: ["Node.js", "Express","React " , "Java" , "Dotnet"],
   databases: ["MongoDB", "MySQL"],
   passions: ["Web Development", "Problem Solving", "Clean Code"],
   currentlyLearning: ["Advanced API Design", "React"],
